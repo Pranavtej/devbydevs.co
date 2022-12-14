@@ -10,7 +10,7 @@ function App() {
         </p>
         <p className="small">
           <code>Developer by Developers</code></p>
-        <p>
+        
             <p className="small">
           <code>© 2022 all rights reserved</code></p>
         <p>
