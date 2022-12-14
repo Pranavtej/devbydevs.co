@@ -6,10 +6,13 @@ function App() {
       <header className="App-header">
         {/* <img src="Octocat.png" className="App-logo" alt="logo" /> */}
         <p>
-        &lt; d<span className="heart"> /</span> D &gt;
+        <span className="heart">&lt; d<span className="heart"> /</span> D <span className="heart">&gt;
         </p>
         <p className="small">
           <code>Developer by Developers</code></p>
+        <p>
+            <p className="small">
+          <code>© 2022 all rights reserved</code></p>
         <p>
           <a
             className="App-link"
