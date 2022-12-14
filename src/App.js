@@ -4,21 +4,20 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        {/* <img src="Octocat.png" className="App-logo" alt="logo" /> */}
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+        &lt; d<span className="heart"> /</span> D &gt;
         </p>
         <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+          <code>Developer by Developers</code></p>
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+           
           </a>
         </p>
       </header>
